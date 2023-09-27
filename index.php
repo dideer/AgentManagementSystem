@@ -20,7 +20,9 @@
 			<button class="btn btn-success"><a class="text text-light" href="LoginManager.php">Manager</a></button>
 
 			<button class="btn btn-primary"><a class="text text-light" href="AgentLogin.php">Agent</a></button>
+			<button class="btn btn-primary"><a class="text text-light" href="AgentLogin.php">back</a></button>
 
+			<h1>Hello World</h1>
 		</div>
 	</div>
 </div>
